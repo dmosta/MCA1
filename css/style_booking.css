@@ -1,0 +1,159 @@
+
+/* booking interface style sheet */
+
+
+   
+
+body {
+  font-family: Georgia, serif;
+  }
+
+  
+h1, h2, h3, h4, h5, h6 {
+  font-family: Arial, sans-serif;
+  }
+  
+h1 {
+  font-weight: bold;
+  color: #5b5b5a;
+  }
+h2 {
+        text-transform: uppercase;
+        }
+  
+a {
+  color: #1F5187;
+  }
+  
+
+  
+#maincontent a {
+  text-decoration: underline;
+  }
+  
+#group_desc,
+#form_box,
+.tooltip.ttwide
+  {
+  font-size: 14px;
+  line-height: 20px;
+  } 
+
+.ttwide {
+  width:500px !important;
+  }
+  
+.topnav {
+  margin-bottom: 20px;
+  padding: 7px 10px 7px 10px;
+  background-color: #444844;
+  font-family: Arial, sans-serif;
+  
+  }
+
+.topnav a {
+  color: #eeeeee;
+  font-weight: normal !important;
+  font-size: 12px !important;
+  }
+  
+.topnav a[href="http://www.mcgill.ca/library/"] {
+  color: #aaa;
+  }
+  
+#index_php #container {
+  background-color: #ECECEC;
+  }
+  
+#footer {
+  visibility:hidden;
+  }
+
+#customFooter {
+  background-color: #dbdbdb;
+  padding: 50px 10px 10px 10px;
+  text-align: center;
+  font-size: 12px;
+  }
+  
+.tooltip {
+  background-color:#ffffcc;
+  }
+
+#bc_email {
+        color: #ffcc00;
+        }
+
+#groupViewTb th {
+        font-family: Arial, sans-serif;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        font-size: 20px;
+        text-align:left;
+        }
+
+#room_schedule_php {
+        font:12px/1.5em arial, helvetica,"sans-serif";
+        }
+
+#index_php .headerbox {
+        background: none;
+        background-color: #666666;
+        color: #ffffff;
+        }
+
+#index_php .headerbox h2{
+        color: #ffffff;
+        }
+
+#customFooter {
+        padding-top:10px;
+        padding-bottom: 50px;
+        }
+/* Colours for booking table. */
+
+.lc_rm_b {
+  background-color: #999; /* gray */
+  colour: #999;
+  }
+.lc_rm_a, #roomleg_avai div, #rmleg_avai div {
+  background-color: #1B4F97; /* blue */
+  color: #1B4F97;
+  }
+.rm_booked, #rmleg_book div {
+  background-color:#E61C17; /* red */
+  color: #E61C17;
+  }
+.lc_rm_t, #rmleg_tent div {
+  background-color: #F9C46D; /* orange */
+  color: #F9C46D;
+}
+
+/* increase room name width for room booking public and admin views */
+
+#groupViewTb .rntd .rn {width: 197px;}
+#main_box {margin-left: -16px; width: 785px;}
+#groupView {padding: 5px; border-width: 3px;}
+.ui-datepicker {border-width: 3px;}
+#rm_r #form_box {border-width: 3px; margin-left: -8px;}
+
+#groupV .rm_rn {width: 190px;}
+/* end increase room name width */
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   

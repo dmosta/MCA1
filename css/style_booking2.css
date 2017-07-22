@@ -1,0 +1,8 @@
+   #container { background: url('http://lcimages.s3.amazonaws.com/bg_page_white.gif') repeat-x;  background-color:#FFFFFF; }
+      .tooltip { background-color:#dddddd; border:1px solid #aaaaaa; padding:10px 15px; width:200px; display:none; color:#222222; text-align:left; font-size:12px; z-index: 1005; margin-bottom: 15px; -moz-box-shadow:0 0 10px #dddddd; -webkit-box-shadow:0 0 10px #dddddd; }     
+      .ttwide { width:400px!important;  }
+      .room_desc, .room_img { padding: 0px 5px 5px 0px; }
+      .nick_cont { width: 95px; overflow:hidden; }
+      .ui-datepicker { width: 177px; border-radius: 0px; border: 6px solid #EAEAEA; }
+      .ui-datepicker .ui-datepicker-header { background:none!important; background-color: #EBEBEB!important; border-radius: 0px; border: 1px solid #D8D8D8!important; }
+      .fbutton { font-weight: bold; font-size: 12px; }

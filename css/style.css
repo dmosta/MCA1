@@ -1,0 +1,147 @@
+
+/* my style sheet */
+
+
+
+ .emailForm {
+              border:1px solid grey;
+              border-radius:10px;
+              margin-top:20px;
+            }
+
+form {
+       padding-bottom:20px;
+    }
+
+
+
+    #customFooter {
+  background-color: #BDBDBD ;
+  padding: 0px 0px 0px 0px;
+  text-align: center;
+  font-size: 16px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px:
+  height: 10px;
+  width: 100%;
+  margin-top: 70px;
+
+  }
+
+
+  #customFooter {
+        padding-top: 20px;
+        padding-bottom: 800px;
+        }
+
+    .well_mca {
+      min-height: 20px;
+      padding: 10px;
+      margin-bottom: 0px;
+      margin-top: 0px;
+      background-color: #CC3333;
+      border: 1px solid #e3e3e3;
+      border-radius: 4px;
+      border-color: #CC3333;
+      }
+
+
+    .navbar-custom {
+       color: #FFFFFF;
+       background-color: #c2c2d6
+       margin-bottom: 0px;
+    }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #5e5e5e;  /*Sets the text hover color on navbar*/
+
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: #CC3333; /*BACKGROUND color for active*/
+background-color: #E6E6E6;
+border-color: #E6E6E6;
+
+}
+
+  .navbar-default  {
+    background-color: #BDBDBD;
+    border-color: #BDBDBD;
+    margin-bottom: 0px;
+}
+
+  .dropdown-menu > li > a:hover,
+   .dropdown-menu > li > a:focus {
+    color: #262626;
+   text-decoration: none;
+   background-color: #66CCFF;  /*change color of links in drop down here*/
+   }
+
+ .nav > li > a:hover,
+ .nav > li > a:focus {
+    text-decoration: none;
+    background-color: silver; /*Change rollover cell color here*/
+  }
+
+
+  .navbar-default .navbar-nav > li > a {
+   color: #CC3333; /*Change active text color here*/
+    }
+
+    .navbar-default .navbar-brand {
+      color: #CC3333;
+    }
+   
+   .navbar-brand {
+      float: left;
+      height: 50px;
+      line-height: 20px;
+    }
+   .navbar-default .navbar-brand:hover,
+    {
+      color: #848484; 
+    }
+
+   .btn-primary{
+    background-color: #CC3333;
+    border-color: #CC3333;
+    color:white;
+   }
+   
+   .btn-primary:hover {
+     color: #fff;
+     background-color: #B40431;
+     border-color: #B40431;
+    }
+
+    .btn-lg, .btn-group-lg > .btn {
+        padding: 20px 20px;
+        padding-left: 20px;
+    }
+   
+    .custom {
+    width: 120px !important;
+}
+
+.jumbotron{
+  background-color: #F2F2F2;
+}
+
+
+
+
+
+ #hr {
+ -moz-transform: rotate(45deg);  
+   -o-transform: rotate(45deg);  
+ -webkit-transform: rotate(45deg);  
+  -ms-transform: rotate(45deg);  
+      transform: rotate(45deg); 
+   }
+
+
+
+
+   
